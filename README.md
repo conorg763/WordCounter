@@ -1,4 +1,4 @@
-# WordCounter Code Question
+# WordCounter Code Kata Question
 
 LAB 2 - Unique Words
 
